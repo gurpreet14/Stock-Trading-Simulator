@@ -14,8 +14,6 @@ pom.xml :  build file for the application
 
 Instructions for a quick test of our application:
 
-The Pi in the black case is the Kubernetes master. The rest are K8s slaves.
-
 Connect to the pis using ssh.
 Listing the commands for every pi below:
 
